@@ -1,0 +1,6 @@
+{
+  "name": "Math Run 3D",
+  "description": "3D Matematik Endless Runner o'yini - yugurish, hisoblash va to'g'ri javob yo'lagini tanlash!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
